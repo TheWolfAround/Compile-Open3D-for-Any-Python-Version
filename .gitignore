@@ -2,4 +2,4 @@ __build_dir_/
 __build_out__/
 Compile-Vulkan-Equipments-on-Windows/
 Open3D/
-*.whl/
+*.whl
