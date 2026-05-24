@@ -98,6 +98,7 @@ if %errorlevel% equ 1 (
     echo * WARNING!
     echo   - "glslangValidator.exe" not found!
     echo   - First run the compilation script inside the .\Compile-Vulkan-Equipments-on-Windows
+    echo     using 'Ninja' Cmake Genrator Option.
     echo #####################################################################################
     echo.
     exit /b 1
